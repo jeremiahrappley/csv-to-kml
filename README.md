@@ -9,6 +9,8 @@ The CSV file should contain the following headers:
 - `arrivalDate`
 - `departureDate`
 
+If you're starting from a JSON file, you can first convert it to CSV using an online tool such as [JSON to CSV Converter](https://konklone.io/json/).
+
 ## How to use
 
 1. Place the `input.csv` file in the same directory as the script
